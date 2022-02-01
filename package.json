@@ -1,0 +1,22 @@
+{
+  "name": "node_adv_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "factorial": "npx babel-node day_1/factorial.closure.js ",
+    "uppercase": "npx babel-node day_1/uppercase.firstChar.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
