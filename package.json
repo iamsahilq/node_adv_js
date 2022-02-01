@@ -16,7 +16,8 @@
   "scripts": {
     "factorial": "npx babel-node day_1/factorial.closure.js ",
     "uppercase": "npx babel-node day_1/uppercase.firstChar.js",
-    "calculator": "npx babel-node day_1/calculator.js"
+    "calculator": "npx babel-node day_1/calculator.js",
+    "copy": "npx babel-node day_1/copy.js"
   },
   "keywords": [],
   "author": "",
