@@ -1,7 +1,13 @@
 # node_adv_js
 
 ## factorial
+
 `npm run factorial {{num}}`
 
-## string first character uppercase 
+## string first character uppercase
+
 `npm run uppercase {{string}}`
+
+## calculator constructor
+
+`npm run calculator`
